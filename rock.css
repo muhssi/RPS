@@ -1,0 +1,18 @@
+body {
+background-color: rgb(120, 10, 10);
+display: flex;
+}
+button {
+    font-size: 1.5rem;
+    border-radius: 20px;
+    margin: 10px;
+    padding: 10px 10px;
+    font-family: "montserrat";
+    cursor: pointer;
+    text-decoration: none;
+    background-color: rgb(29, 179, 54);
+    border: 3.3px solid rgb(126, 10, 10);
+}
+button :hover{
+    
+}
